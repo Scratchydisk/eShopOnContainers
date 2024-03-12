@@ -281,3 +281,5 @@ pub/
 src/**/app.yaml
 src/**/inf.yaml
 
+# Don't save the .env file(s)
+src/.env*
